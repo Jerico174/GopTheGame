@@ -1,0 +1,1085 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fa",
+				"fancybox"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"mw",
+				"max-width"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"borc",
+				"border-color"
+			],
+			[
+				"rga",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"in",
+				"inside"
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"pare",
+				"parent_id"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"main_art",
+				"main_articles__item"
+			],
+			[
+				"trfsc",
+				"trf-sc	transform: scale(${1:x}, ${2:y});"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"trf",
+				"trf:r	transform:rotate()"
+			],
+			[
+				"sc",
+				"scale()"
+			],
+			[
+				"fos",
+				"font-size"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"che",
+				"chebarkul"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"boxs",
+				"box-sizing"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"border-ri",
+				"border-right-color"
+			],
+			[
+				"borr",
+				"border-right"
+			],
+			[
+				"li",
+				"lighten(color, 10%)"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"tel",
+				"text-align"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"rgb",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"borcol",
+				"border-color"
+			],
+			[
+				"bot",
+				"border-top"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"top_r",
+				"top_order__button"
+			],
+			[
+				"rb",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"sans",
+				"sans-serif"
+			],
+			[
+				"ani",
+				"anim-	animation: ${1:name} ${2:duration} ${3:timing-function} ${4:delay} ${5:iteration-count} ${6:direction} ${7:fill-mode};"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"bf",
+				"bdf-ow	border-fit: overwrite;"
+			],
+			[
+				"bfp",
+				"bdf:sp	border-fit:space"
+			],
+			[
+				"fost",
+				"font-style"
+			],
+			[
+				"af",
+				"after"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"Scada",
+				"scada-b"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"ho",
+				"ho:a	&:hover"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"sca",
+				"scale()"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"rgba",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"rg",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"bs",
+				"background-size"
+			],
+			[
+				"t",
+				"task"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"lol",
+				"lighten(color, 10%)"
+			],
+			[
+				"ou",
+				"outline"
+			],
+			[
+				"sli",
+				"slidesToShow"
+			],
+			[
+				"ava",
+				"a_avanteintbook"
+			],
+			[
+				"bdra",
+				"bdra	border-radius"
+			],
+			[
+				"bdrs",
+				"bdtlrs	border-top-left-radius"
+			],
+			[
+				"mag",
+				"magistral_boldregular"
+			],
+			[
+				"bp",
+				"background-position"
+			],
+			[
+				"bxsh-r",
+				"bxsh-r	box-shadow: ${1:inset }${2:hoff} ${3:voff} ${4:blur} ${5:spread }rgb(${6:0}, ${7:0}, ${8:0});"
+			],
+			[
+				"f",
+				"fon	font"
+			],
+			[
+				"fl-l",
+				"fl-l	float: left;"
+			],
+			[
+				"rot",
+				"rotate()"
+			],
+			[
+				"bol",
+				"magistral_boldregular"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"trasnf",
+				"transform"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"traf",
+				"transform"
+			],
+			[
+				"wor",
+				"word-spacing"
+			],
+			[
+				"us",
+				"us	user-select"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"ng-op",
+				"ng-options	AngularJS"
+			],
+			[
+				"ng-re",
+				"ng-repeat-end	AngularJS"
+			],
+			[
+				"ngc",
+				"ng-click	AngularJS"
+			],
+			[
+				"ng-r",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"fef",
+				"fffefe"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"mai",
+				"mainCtrl"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"sco",
+				"$scope	AngularJS"
+			],
+			[
+				"con",
+				"controller	AngularJS"
+			],
+			[
+				"ng-c",
+				"ng-controller	AngularJS"
+			],
+			[
+				"a",
+				"$animate	AngularJS"
+			],
+			[
+				"ti",
+				"$timeout	AngularJS"
+			],
+			[
+				"m",
+				"$timeout	AngularJS"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"slide",
+				"slidesToScroll"
+			],
+			[
+				"sl",
+				"slidesToShow"
+			],
+			[
+				"border-l",
+				"border-bottom-left-radius"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"kBor",
+				"kBoardOffset"
+			],
+			[
+				"bob",
+				"border-box"
+			],
+			[
+				"sas",
+				"sans-serif"
+			],
+			[
+				"intro",
+				"intro_regular"
+			],
+			[
+				"map",
+				"map_sidebar"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"ac",
+				"active-position"
+			],
+			[
+				"pos",
+				"position-id"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"orange_s",
+				"orange_submit"
+			],
+			[
+				"bocl",
+				"border-color"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"ts",
+				"translateY()"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"tt",
+				"totalPrice"
+			],
+			[
+				"mark",
+				"markers"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"for",
+				"form-validate"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "ip",
+		"selected_items":
+		[
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"insp",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"filez",
+				"SFTP: Browse With FileZilla"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssc",
+				"Set Syntax: CSS"
+			],
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"sst",
+				"Set Syntax: HTML"
+			],
+			[
+				"sscs",
+				"Set Syntax: CSS"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"gul",
+				"Gulp"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"inp",
+				"Package Control: Install Package"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"sstw",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"pc",
+				"Package Control: Remove Package"
+			],
+			[
+				"cp",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Add Channel"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 66.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/gopthegame"
+	],
+	"file_history":
+	[
+		"/D/gopthegame/package.json",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/sidebar.php",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/single.php",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/style.css",
+		"/D/autopoliv/js/js.js",
+		"/D/goodbook/wp-content/themes/blankslate/category.php",
+		"/D/goodbook/wp-content/themes/blankslate/entry-footer.php",
+		"/D/goodbook/wp-content/themes/blankslate/single.php",
+		"/D/goodbook/wp-content/themes/blankslate/js/js.js",
+		"/D/goodbook/wp-content/themes/blankslate/header.php",
+		"/D/goodbook/wp-content/themes/blankslate/sidebar.php",
+		"/D/goodbook/wp-content/themes/blankslate/footer.php",
+		"/D/autopoliv/fonts/stylesheet.css",
+		"/D/autopoliv/fancybox/jquery.fancybox.css",
+		"/D/yourPuer/js/js.js",
+		"/D/autopoliv/contact.php",
+		"/D/autopoliv/ftpsync.settings",
+		"/D/autopoliv/thanks.html",
+		"/D/goodbook/wp-content/themes/blankslate/style.css",
+		"/D/autopoliv/css/style.css",
+		"/D/hedgehog/hedgehog.sublime-project",
+		"/D/autopoliv/autopoliv.html",
+		"/D/autopoliv/gabs.html",
+		"/D/autopoliv/sun.html",
+		"/D/autopoliv/index.html",
+		"/D/yourPuer/form.html",
+		"/D/hedgehog/ftpsync.settings",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/news.pm",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/contact_page.pm",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/page.pm",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/contact_page.tx",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/site_frame.tx",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/header.tx",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/news.tx",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/js.js",
+		"/D/autopoliv/js.js",
+		"/D/autopoliv/style.css",
+		"/D/kanikuly/templates/xslate/includes/blocks/prods.tx",
+		"/D/kanikuly/templates/xslate/includes/prods_block.tx",
+		"/D/kanikuly/controllers/__site__.pm",
+		"/D/kanikuly/css/less/about.less",
+		"/D/kanikuly/css/style.css",
+		"/C/Program Files (x86)/obs-studio/bin/32bit/obs32.exe",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-2/kanikuly.GET.77.222.110.207.log",
+		"/D/kanikuly/css/less/services.less",
+		"/D/kanikuly/css/less/includes/reset.css",
+		"/D/kanikuly/templates/xslate/site_frame.tx",
+		"/D/kanikuly/controllers/news_cat.pm",
+		"/D/kanikuly/controllers/home_page.pm",
+		"/D/kanikuly/templates/xslate/classes/home_page.tx",
+		"/D/kanikuly/css/less/news.less",
+		"/D/kanikuly/js/main.js",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/kanikuly 2.conf",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/kanikuly.GET.77.222.110.207.log",
+		"/D/kanikuly/controllers/prod_cat.pm",
+		"/D/kanikuly/css/less/filters.less",
+		"/D/kanikuly/templates/xslate/includes/news_block.tx",
+		"/D/kanikuly/templates/xslate/classes/about.tx",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/kanikuly.POST.77.222.110.207.log",
+		"/D/kanikuly/actions/json.pm",
+		"/D/kanikuly/controllers/kanikuly.GET.192.168.1.20.log",
+		"/D/kanikuly/templates/xslate/includes/scripts.tx",
+		"/D/kanikuly/sftp-config.json",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/kanikuly.conf",
+		"/D/kanikuly/ftpsync.settings",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/main.js",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/kanikuly.GET.192.168.1.20.log",
+		"/D/kanikuly/sublime-gulp.log",
+		"/D/hedgehog/hedgehog/public_html/wp-content/themes/blankslate/header.php",
+		"/D/hedgehog/hedgehog/public_html/wp-content/themes/hedgehog/footer.php",
+		"/D/goodbook/wp-content/themes/blankslate/js/device.min.js",
+		"/D/goodbook/wp-content/themes/blankslate/functions.php",
+		"/D/goodbook/wp-content/themes/blankslate/entry-content.php",
+		"/D/goodbook/wp-content/themes/blankslate/entry.php",
+		"/D/goodbook/wp-content/themes/blankslate/entry-summary.php",
+		"/D/hedgehog/hedgehog/public_html/wp-content/themes/hedgehog/functions.php",
+		"/D/hedgehog/hedgehog/public_html/wp-content/themes/hedgehog/js/js.js",
+		"/D/goodbook/ftpsync.settings",
+		"/D/goodbook/wp-content/themes/blankslate/front-page.php",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/gulpfile.js",
+		"/D/Games/World of Warcraft v3.3.5/Data/ruRU/realmlist.wtf",
+		"/D/hedgehog/hedgehog/public_html/wp-content/themes/hedgehog/page.php",
+		"/D/hedgehog/hedgehog/public_html/wp-content/themes/hedgehog/front-page.php",
+		"/D/hedgehog/hedgehog/public_html/wp-content/themes/hedgehog/fonts/style.css",
+		"/D/hedgehog/hedgehog/public_html/wp-content/themes/hedgehog/style.css",
+		"/D/Games/World of Warcraft v3.3.5/splitConfig.txt",
+		"/D/hedgehog/hedgehog/public_html/wp-content/themes/hedgehog/header.php",
+		"/D/goodbook/wp-content/plugins/advanced-custom-fields/readme.txt",
+		"/D/hedgehog/hedgehog/public_html/wp-content/plugins/advanced-ajax-page-loader/readme.txt",
+		"/C/Users/dns/AppData/Local/Temp/Rar$DIa0.658/style.css",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/доступы.txt",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/Контакты.txt",
+		"/D/hedgehog/hedgehog/public_html/wp-content/themes/hedgehog/entry-footer.php",
+		"/D/hedgehog/hedgehog/public_html/wp-content/themes/hedgehog/comments.php",
+		"/D/hedgehog/hedgehog/public_html/wp-content/themes/hedgehog/category.php",
+		"/D/hedgehog/hedgehog/public_html/wp-content/themes/hedgehog/author.php",
+		"/D/hedgehog/hedgehog/public_html/wp-content/themes/hedgehog/attachment.php",
+		"/D/hedgehog/hedgehog/public_html/wp-content/themes/hedgehog/archive.php",
+		"/D/hedgehog/hedgehog/public_html/wp-content/themes/hedgehog/404.php",
+		"/D/hedgehog/hedgehog/public_html/wp-content/themes/hedgehog/search.php",
+		"/D/hedgehog/hedgehog/public_html/wp-content/themes/hedgehog/readme.txt",
+		"/D/hedgehog/hedgehog/public_html/wp-content/themes/hedgehog/nav-below.php",
+		"/D/hedgehog/hedgehog/public_html/wp-content/themes/hedgehog/tag.php",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/js 2.js",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/js 3.js",
+		"/D/!flexsites/Бизнес-партнер/inner.html",
+		"/D/!flexsites/Бизнес-партнер/css/style.css",
+		"/D/!flexsites/Бизнес-партнер/index.html",
+		"/C/Users/dns/Desktop/dots.txt",
+		"/C/Users/dns/Desktop/суть.txt",
+		"/D/!flexsites/holstland/cart.html",
+		"/D/!flexsites/holstland/catalog.html",
+		"/D/!flexsites/holstland/print.html",
+		"/D/!flexsites/holstland/css/style.less",
+		"/D/work/permanent/www/index.html",
+		"/C/Users/dns/Downloads/customLog.txt",
+		"/D/work/permanent/www/css/style.css",
+		"/D/work/permanent/www/about.html",
+		"/D/!flexsites/holstland/index.html",
+		"/C/Users/dns/Desktop/Для диплома/controllers/__site__.pm",
+		"/C/Users/dns/Desktop/Для диплома/controllers/journal.pm",
+		"/D/frontend/myfirtsfrontendproject/public/index.php",
+		"/D/frontend/myfirtsfrontendproject/.env",
+		"/D/!flexsites/holstland/js/js.js",
+		"/C/Users/dns/Desktop/use case",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/index.pm",
+		"/C/Users/dns/AppData/Local/Temp/fz3temp-1/home_page.tx"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"D:\\goodbook\\wp-content\\themes\\blankslate",
+			"D:\\hedgehog\\hedgehog\\public_html\\wp-content\\themes\\hedgehog",
+			"C:\\",
+			"<current file>",
+			"D:\\utkino",
+			"D:\\a1",
+			"D:\\sendway",
+			"D:\\prplus-ru\\app\\views",
+			"views"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"main_articles__item",
+			".main_articles__item",
+			"another_books",
+			"Габи",
+			"phone",
+			".top_slider",
+			"hover",
+			".form-validate input, .form-validate textarea",
+			"phone",
+			"js-serviceArrows",
+			"fancybox_overlay",
+			"prods_block",
+			"_getProd",
+			".about_services__item",
+			"filter_json",
+			"_getProdBlock",
+			"getGa",
+			"i_c",
+			"_getProdBlock",
+			"_getProdsBlock",
+			"prod_page_array",
+			"_getProdPages",
+			"_getProdBlock",
+			"prod_cat",
+			"prod_page",
+			"_getPopular",
+			"подоб",
+			"__item",
+			".home_news__item",
+			"maso",
+			"AjaxProd",
+			"news_block",
+			"_getNewsBlock",
+			"clearfix",
+			"#content",
+			"header",
+			"320",
+			"main_articles__item",
+			"home_bottom",
+			"front_page_border",
+			"font-size",
+			".home_main_block__wrapper.m--white",
+			"front_page_wrapper",
+			"fonts/",
+			"blankslate",
+			"map_sidebar",
+			"td')",
+			"var base_url=\"http://lavrov.test/\";",
+			"88003013006",
+			"8",
+			"телефон",
+			"map_sidebar",
+			"kop",
+			".procedure_subscribe",
+			"item",
+			"картин",
+			"footer__copyright",
+			"<!DOCTYPE HTML>\n<html>\n<head>\n	<meta charset=\"UTF-8\">\n	<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n	<title>Холстлэнд</title>\n	<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic&subset=latin,cyrillic' rel='stylesheet' type='text/css'>\n	<link rel=\"stylesheet\" href=\"css/jquery-ui.min.css\">\n	<link rel=\"stylesheet\" href=\"css/slick.css\">\n	<link rel=\"stylesheet\" href=\"css/style.css\">\n</head>\n<body>\n	<div class=\"wrapper\">\n		<header class=\"header\">\n			<div class=\"header__logo\">\n				<img class=\"header__logo-img\" src=\"i/header_logo.png\" alt=\"Холстлэнд\" width=\"80\" height=\"80\">\n				<div class=\"header__logo-text\">\n					<span>HolstLand.ru</span>\n					Интернет-магазин постеров и картин для интерьера на стену в офис и дом \n				</div>\n			</div>\n			<div class=\"header__center\">\n				<div class=\"header__phone\">\n					<span>бесплатный звонок</span>\n					<a href=\"tel:8-800-000-00-00\">8-800-000-00-00</a>\n				</div>\n				<select class=\"header__cityselect js-cityselect\" name=\"city\" id=\"city\">\n					<option value=\"0\">Челябинск</option>\n					<option value=\"0\">Магнитогорск</option>\n					<option value=\"0\">Екатеринбург</option>\n				</select>\n				<div class=\"clear\"></div>\n				<form class=\"header__search\" method=\"POST\">\n					<input class=\"header__search-text\" type=\"text\" placeholder=\"Поиск в каталоге\">\n					<input class=\"header__search-button\" type=\"submit\">\n				</form>\n			</div>\n			<div class=\"header__right\">\n				<a class=\"header__lk\" href=\"#\"><span>Личный кабинет</span></a>\n				<a class=\"header__cart\" href=\"#\">Корзина пока пуста</a>\n			</div>\n			<div class=\"clear\"></div>\n			<table class=\"header__menu\">\n				<tr>\n					<td class=\"header__menu-item header__menu-item--active\"><a href=\"#\">Загрузить фото для печати</a></td>\n					<td class=\"header__menu-item\"><a href=\"#\">Каталог постеров</a></td>\n					<td class=\"header__menu-item\"><a href=\"#\">Отзывы</a></td>\n					<td class=\"header__menu-item\"><a href=\"#\">Доставка</a></td>\n					<td class=\"header__menu-item\"><a href=\"#\">Контакты</a></td>	\n				</tr>\n			</table>\n		</header>\n	</div>\n	<div class=\"wrapper\">	\n		<aside class=\"aside\">\n			<div class=\"catalog_filters\">\n				<div class=\"catalog_filters__header\">\n					<div class=\"catalog_filters__clear\"></div>\n					<div class=\"catalog_filters__header__text\">\n						Подбери свой постер\n					</div>\n				</div>\n				<div class=\"catalog_filters__section m--active\">\n					<div class=\"catalog_filters__section__header\">\n						Форма\n					</div>\n					<div class=\"catalog_filters__section__content\">\n						<div class=\"form_types\">\n							<div class=\"form_types-item form_type-30x30 m--active\"></div>\n							<div class=\"form_types-item form_type-20x30\"></div>\n							<div class=\"form_types-item form_type-30x20\"></div>\n						</div>\n					</div>\n				</div>\n				<div class=\"catalog_filters__section\">\n					<div class=\"catalog_filters__section__header\">\n						Тематика\n					</div>\n					<div class=\"catalog_filters__section__content\">\n						<div class=\"catalog_filters-item\">\n							<span>Абстракция</span>\n						</div>\n						<div class=\"catalog_filters-item\">\n							<span>Города и страspanы</a>\n						</div>\n						<div class=\"catalog_filters-item\">\n							<span>Детские</span>\n						</div>\n						<div class=\"catalog_filters-item\">\n							<span>Еда</span>\n						</div>\n						<div class=\"catalog_filters-item\">\n							<span>Животные</span>\n						</div>\n						<div class=\"catalog_filters-item\">\n							<span>Карты</span>\n						</div>\n						<div class=\"catalog_filters-item\">\n							<span>Кино</span>\n						</div>\n						<div class=\"catalog_filters-item\">\n							<span>Космос</span>\n						</div>\n						<div class=\"catalog_filters-item\">\n							<span>Машины</span>\n						</div>\n						<div class=\"catalog_filters-item\">\n							<span>Море</span>\n						</div>\n						<div class=\"catalog_filters-item\">\n							<span>Музыка</span>\n						</div>\n						<div class=\"catalog_filters-item\">\n							<span>Настроения</span>\n						</div>\n						<div class=\"catalog_filters-item\">\n							<span>Поп-арт картины</span>\n						</div>\n						<div class=\"catalog_filters-item\">\n							<span>Природа и пейзажи</span>\n						</div>\n						<div class=\"catalog_filters-item\">\n							<span>Спорт</span>\n						</div>\n						<div class=\"catalog_filters-item\">\n							<span>Цветы</span>\n						</div>\n					</div>\n				</div>\n				<div class=\"catalog_filters__section\">\n					<div class=\"catalog_filters__section__header\">\n						На праздник\n					</div>\n					<div class=\"catalog_filters__section__content\">\n						\n					</div>\n				</div>\n				<div class=\"catalog_filters__section\">\n					<div class=\"catalog_filters__section__header\">\n						Для кого\n					</div>\n					<div class=\"catalog_filters__section__content\">\n						\n					</div>\n				</div>\n				<div class=\"catalog_filters__section\">\n					<div class=\"catalog_filters__section__header\">\n						Для дома	\n					</div>\n					<div class=\"catalog_filters__section__content\">\n						\n					</div>\n				</div>\n				<div class=\"catalog_filters__section\">\n					<div class=\"catalog_filters__section__header\">\n						Для офиса	\n					</div>\n					<div class=\"catalog_filters__section__content\">\n						\n					</div>\n				</div>\n				<div class=\"catalog_filters__button m--submit\">\n					Подобрать\n				</div>\n				<div class=\"catalog_filters__button m--clear\">\n					Сбросить\n				</div>\n			</div>\n		</aside>\n		<main class=\"content\">\n			<div class=\"bread_crumbs\">\n				<a href=\"#\">Каталог постеров </a>/\n			</div>\n			<div class=\"text\">\n				<h1>постеры на заказ на стену для интерьера детские</h1>\n				<p>Как много изменилось! Как мало изменилось! Мы по-прежнему, как и столетия назад, хотим жить в красивой, уютной, гармоничной обстановке. Мы украшаем свои дома точно так же, как это делали люди и двести, и триста и тысячи лет назад. Картина — один из самых простых, и в то же время — оригинальных способов придать интерьеру уникальность, создать собст</p>\n			</div>\n			<div class=\"grouping\">\n				<div class=\"grouping-item m--active m--up\"><span>Имя</span></div>\n				<div class=\"grouping-item\"><span>Популярность</span></div>\n				<div class=\"grouping-item\"><span>Цена</span></div>\n			</div>\n			<div class=\"sizes js-sizes\">\n				<div class=\"sizes-item\"><span>30х40 см</span></div>\n				<div class=\"sizes-item\"><span>40х80 см</span></div>\n				<div class=\"sizes-item\"><span>50х100 см</span></div>\n				<div class=\"sizes-item\"><span>55х110 см</span></div>\n				<div class=\"sizes-item\"><span>60х120 см</span></div>\n				<div class=\"sizes-item\"><span>70х140 см</span></div>\n				<div class=\"sizes-item\"><span>80х160 см</span></div>\n				<div class=\"sizes-item\"><span>100х180 см</span></div>\n			</div>\n			<div class=\"search_result\">\n				<a href=\"#\" class=\"search_result__category-item\">\n					<div class=\"search_result__category-item__image\">\n						<img src=\"i/catalog-1.jpg\" alt=\"\">\n					</div>\n					<div class=\"search_result__category-item__textblock\">\n						<div class=\"search_result__category-item__text\">Просмотр Ниццы, Франция</div>\n						<div class=\"search_result__category-item__price\">от 1230 руб.</div>\n						<div class=\"search_result__category-item__link\">подробнее</div>\n						<div class=\"search_result__category-item__look\"><span>Вид в интерьере</span></div>\n					</div>\n				</a>\n				<a href=\"#\" class=\"search_result__category-item\">\n					<div class=\"search_result__category-item__image\">\n						<img src=\"i/catalog-2.jpg\" alt=\"\">\n					</div>\n					<div class=\"search_result__category-item__textblock\">\n						<div class=\"search_result__category-item__text\">Просмотр Ниццы, Франция</div>\n						<div class=\"search_result__category-item__price\">от 1230 руб.</div>\n						<div class=\"search_result__category-item__link\">подробнее</div>\n						<div class=\"search_result__category-item__look\"><span>Вид в интерьере</span></div>\n					</div>\n				</a>\n				<a href=\"#\" class=\"search_result__category-item\">\n					<div class=\"search_result__category-item__image\">\n						<img src=\"i/catalog-2.jpg\" alt=\"\">\n					</div>\n					<div class=\"search_result__category-item__textblock\">\n						<div class=\"search_result__category-item__text\">Просмотр Ниццы, Франция</div>\n						<div class=\"search_result__category-item__price\">от 1230 руб.</div>\n						<div class=\"search_result__category-item__link\">подробнее</div>\n						<div class=\"search_result__category-item__look\"><span>Вид в интерьере</span></div>\n					</div>\n				</a>\n				<a href=\"#\" class=\"search_result__category-item\">\n					<div class=\"search_result__category-item__image\">\n						<img src=\"i/catalog-2.jpg\" alt=\"\">\n					</div>\n					<div class=\"search_result__category-item__textblock\">\n						<div class=\"search_result__category-item__text\">Просмотр Ниццы, Франция</div>\n						<div class=\"search_result__category-item__price\">от 1230 руб.</div>\n						<div class=\"search_result__category-item__link\">подробнее</div>\n						<div class=\"search_result__category-item__look\"><span>Вид в интерьере</span></div>\n					</div>\n				</a>\n				<a href=\"#\" class=\"search_result__category-item\">\n					<div class=\"search_result__category-item__image\">\n						<img src=\"i/catalog-2.jpg\" alt=\"\">\n					</div>\n					<div class=\"search_result__category-item__textblock\">\n						<div class=\"search_result__category-item__text\">Просмотр Ниццы, Франция</div>\n						<div class=\"search_result__category-item__price\">от 1230 руб.</div>\n						<div class=\"search_result__category-item__link\">подробнее</div>\n						<div class=\"search_result__category-item__look\"><span>Вид в интерьере</span></div>\n					</div>\n				</a>\n				<a href=\"#\" class=\"search_result__category-item m--next\">\n				</a>\n			</div>\n			<div class=\"pages\">\n				<a href=\"#\" class=\"pages__page\">1</a>\n				<a href=\"#\" class=\"pages__page\">2</a>\n				<a href=\"#\" class=\"pages__next\"></a>\n			</div>\n		</main>\n	</div>\n	<footer class=\"footer\">\n		<div class=\"wrapper\">\n			<div class=\"footer__copyright\">\n				<span>© HolstLand.ru 2015-2016 г.</span>\n				Интернет-магазин постеров и <br>картин для интерьера на стену <br>в офис и дом\n			</div>\n			<div class=\"footer__contacts\">\n				<div class=\"footer__phone\">\n					<a href=\"tel:8-800-000-00-00\">8-800-000-00-00</a>\n					<span>бесплатный звонок</span>\n				</div>\n				<div class=\"footer__address\">\n					г.Челябинск, 454014,<br>\n					ул. Ворошилова, дом 10.\n				</div>\n				<a href=\"mailto:privet@holstland.ru\" class=\"footer__mail\">\n					privet@holstland.ru\n				</a>\n			</div>\n			<div class=\"footer__menu\">\n				<div class=\"footer__menu__col\">\n					<a href=\"#\" class=\"footer__menu-item\">Постеры</a>\n					<a href=\"#\" class=\"footer__menu-item\">Плакаты</a>\n					<a href=\"#\" class=\"footer__menu-item\">Модульные картины</a>\n					<a href=\"#\" class=\"footer__menu-item\">Картины-часы</a>\n				</div>\n				<div class=\"footer__menu__col\">\n					<a href=\"#\" class=\"footer__menu-item\">Фото на холсте</a>\n					<a href=\"#\" class=\"footer__menu-item\">Подрамники</a>\n					<a href=\"#\" class=\"footer__menu-item\">Портреты</a>\n					<a href=\"#\" class=\"footer__menu-item\">Роспись</a>\n				</div>\n				<div class=\"footer__menu__col\">\n					<a href=\"#\" class=\"footer__menu-item\">Контакты</a>\n					<a href=\"#\" class=\"footer__menu-item\">Отзывы</a>\n					<a href=\"#\" class=\"footer__menu-item\">Видео</a>\n					<a href=\"#\" class=\"footer__menu-item\">Интерьеры</a>\n				</div>\n			</div>\n		</div>\n	</footer>\n	<script src=\"http://maps.api.2gis.ru/2.0/loader.js?pkg=full\"></script>\n	<script type=\"text/javascript\" src=\"js/jquery.js\"></script>\n	<script type=\"text/javascript\" src=\"js/jquery-ui.min.js\"></script>\n	<script type=\"text/javascript\" src=\"js/slick.min.js\"></script>\n	<script type=\"text/javascript\" src=\"js/js.js\"></script>\n</body>\n</html>",
+			"00",
+			"boy",
+			"block__photo_choose",
+			"result",
+			"grid",
+			"advantages_",
+			"catalog__",
+			"catalog__category-item__text",
+			".catalog__category-item__text",
+			"Arrow",
+			"catalog_filter-item",
+			"client_",
+			"arsenal-",
+			"price",
+			"ga(",
+			"myas",
+			"Сандра",
+			"производим",
+			"Отправлена форма",
+			"<div class=\"clear\"></div>\n			<form onsubmit=\"ga",
+			"проектирование",
+			"проектирование бесп",
+			"onclick",
+			"id=",
+			"block__header",
+			"<h2",
+			"»",
+			"thanks ",
+			"всей",
+			"#services_popup",
+			"services_popup_image",
+			"холодильного",
+			"sertificate-1",
+			"top",
+			"parallax",
+			"header",
+			"2e55a0",
+			"fonts/",
+			"url('",
+			"anima",
+			"flex",
+			"main__Services",
+			"inlineBox",
+			"team",
+			".lSSlideOuter .lSPager.lSGallery img",
+			"content",
+			"header",
+			"form",
+			"works{",
+			"figures",
+			"pa",
+			"ninja",
+			"i/how",
+			"pic",
+			"aside",
+			"slide_services-1",
+			"flex",
+			"articles_item",
+			"flex",
+			"a_avanteintbook",
+			"a_avantebsregular",
+			"bs",
+			"light",
+			"a_avanteintbook",
+			"intbook",
+			"width:",
+			"constructor_h",
+			"url",
+			"footer",
+			"url('"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"hedgehog",
+			"works_item",
+			"top",
+			"href='/products/'",
+			"href='/production/'",
+			"href='/salepoints/'",
+			"<i class=\"fa fa-rub\"></i>",
+			"<a href=\"#\" class=\"header_menu_item\">Каталог обьектов</a>",
+			"<meta charset=\"UTF-8\">\n	<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>\n	<link rel=\"stylesheet\" href=\"//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css\">\n	<link rel=\"stylesheet\" href=\"/css/switchery.css\" />\n	<link rel=\"stylesheet\" href=\"/css/jquery.mCustomScrollbar.min.css\">\n	<link rel=\"stylesheet\" href=\"/css/icomoon.css\">\n	<link rel=\"stylesheet\" href=\"/css/dropkick.css\">\n	<link rel=\"stylesheet\" href=\"/css/font-awesome.min.css\">\n	<link rel=\"stylesheet\" href=\"/css/ui.dropdownchecklist.standalone.css\">\n	<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/flags.css\" />\n	<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/dd.css\" />\n	<link rel=\"stylesheet\" href=\"/css/style.css\">\n	<link rel=\"stylesheet\" href=\"/css/myhotel.css\">\n	<script type='text/javascript' src='/js/jquery.min.js'></script>\n	<script src=\"//code.jquery.com/ui/1.11.4/jquery-ui.js\"></script>\n	<script src=\"/js/jquery.dd.min.js\"></script>\n	<script type='text/javascript' src=\"/js/switchery.min.js\"></script>\n	<script type='text/javascript' src='/js/jquery.mCustomScrollbar.concat.min.js'></script>\n	<script type='text/javascript' src='/js/dropkick.min.js'></script>\n	<script type='text/javascript' src='/js/ui.dropdownchecklist-1.4-min.js'></script>\n	<script type='text/javascript' src='/js/js.js'></script>\n	<script type='text/javascript' src='/js/myhotel-js.js'></script>\n	<title>Личный кабинет Sendway</title>",
+			"\n		<footer class='lk'>\n			<div class=\"wrapper\">\n				<div class=\"footer_bottom clearfix\">\n					<ul class=\"footer_bottom_menu_left\">\n						<li class=\"footer_copyrights\">© 2015 Sendway</li>\n						<li><a href=\"#\">Help</a></li>\n						<li><a href=\"#\">FAQ</a></li>\n						<li><a href=\"#\">Privacy & Terms</a></li>\n					</ul>\n				</div>\n			</div>\n		</footer>",
+			"<div class=\"header_logo_lk\"><a href=\"/\"><img src=\"i/sw_logo.svg\" alt=\"\"></a></div>\n		<div class=\"header_title_lk\">My Hotel</div>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gulp_output":
+	{
+		"height": 142.0
+	},
+	"output.sftp":
+	{
+		"height": 142.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 142.0
+	},
+	"pinned_build_system": "",
+	"project": "/D/goodbook/goodbook.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gulp",
+				"audit\\gulpfile.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 355.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
